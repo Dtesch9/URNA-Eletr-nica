@@ -1,0 +1,13 @@
+
+CPF:1
+VOTO PARA PREFEITO:14
+===================== 
+CPF:2
+VOTO PARA PREFEITO:18
+===================== 
+CPF:3
+VOTO PARA PREFEITO:1
+===================== 
+CPF:4
+VOTO PARA PREFEITO:0
+===================== 

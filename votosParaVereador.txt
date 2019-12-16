@@ -1,0 +1,12 @@
+CPF:1
+VOTO PARA VEREADOR:9
+===================== 
+CPF:2
+VOTO PARA VEREADOR:13
+===================== 
+CPF:3
+VOTO PARA VEREADOR:1
+===================== 
+CPF:4
+VOTO PARA VEREADOR:0
+===================== 
